@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-15 06:21:57,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-05-15 18:24:14,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -638,10 +638,12 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://60.248.77.83/sat/tv721
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
 纬来育乐,rtmp://60.248.77.83/sat/tv701
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
@@ -657,6 +659,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
@@ -671,10 +674,10 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+CHC家庭影院,http://api2.52tb.xyz/info?id=220&token=20230218jsyklh
 CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby
 CHC家庭影院,rtsp://115.153.212.72/PLTV/88888888/224/3221226959/86128800.smil
 CHC家庭影院,rtsp://115.153.254.81/PLTV/88888888/224/3221226959/86128800.smil
-CHC家庭影院,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226959/86128800.smil
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
@@ -685,6 +688,7 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
 CHC动作电影,http://data.3g.yy.com/live/hls/1382735573/1382735573
 CHC动作电影,http://tv.scjyhd.com:4022/udp/239.11.0.142:5140
+CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia
 CHC高清电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
@@ -705,6 +709,7 @@ NewTV惊悚悬疑,http://yc.myds.me:35455/itv/1000000004000024282.m3u8?cdn=ysten
 NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
 NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+NewTV动作电影,http://43.138.0.72:35455/yy/1382736823
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8
@@ -726,6 +731,8 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 经典电影,rtsp://115.153.254.81/PLTV/88888888/224/3221227010/86440860.smil
 经典电影,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227010/86440860.smil
 经典电影,rtsp://115.153.212.72/PLTV/88888888/224/3221227010/86440860.smil
+IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
+IPTV经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
 天映经典,https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193
@@ -734,6 +741,7 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
@@ -811,9 +819,11 @@ CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146
+广东体育,http://api2.52tb.xyz/info?id=413&token=20230218qkyjia#http://api2.52tb.xyz/info?id=414&token=20230218qkyjia#http://api3.52tb.xyz/info?id=413&token=20221127jxwhhemby#http://api2.52tb.xyz/info?id=414&token=20230218jsyklh
 广东体育,http://api3.52tb.xyz/info?id=413&token=20221127jxwhhemby
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://60.248.77.83/sat/tv721
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
@@ -821,8 +831,8 @@ CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1
 五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-五星体育,http://139.196.151.191:2051/rtp/239.45.3.210:5140
 五星体育,http://live.xmcdn.com/live/57/64.m3u8
+五星体育,http://api2.52tb.xyz/info?id=375&token=20230120rdbtgv
 五星体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby
 体育赛事,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=ud
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
@@ -901,8 +911,8 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,http://tv.scjyhd.com:4022/udp/239.10.0.101:5140
-动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 动漫秀场,http://61.133.118.228:5001/douyu/9548279
+动漫秀场,http://120.55.49.231:3095/rtp/233.50.201.184:5140
 动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
 新动漫,http://tv.scjyhd.com:4022/udp/239.10.0.159:5140
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
@@ -940,14 +950,15 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 金鹰卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8?
 金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
-金鹰卡通,http://139.196.151.191:2051/rtp/239.45.3.118:5140
 金鹰卡通,rtsp://180.95.143.19/PLTV/88888910/224/3221225564/10000100000000060000000000107344_0.smil
+金鹰卡通,rtsp://116.176.26.18/PLTV/88888910/224/3221225564/10000100000000060000000000107344_0.smil
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?
+黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia
 黑莓动画,http://api3.52tb.xyz/info?id=173&token=20221127jxwhhemby
 炫动卡通,http://tv.scjyhd.com:4022/udp/239.93.0.173:5140
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
@@ -986,6 +997,7 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,http://61.133.118.228:5001/yy/24180320
+经典动漫,http://43.138.0.72:35455/yy/24180320
 蜡笔小新,http://1.94.31.214:35455/huya/11352970
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
@@ -999,10 +1011,10 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 游戏风云,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226548/index.m3u8
 游戏风云,http://tv.scjyhd.com:4022/udp/239.10.0.103:5140
-游戏风云,http://139.196.151.191:2051/rtp/239.45.3.131:5140
 游戏风云,rtsp://115.153.245.70/PLTV/88888888/224/3221225615/iptv7998.smil
 游戏风云,rtsp://115.153.254.81/PLTV/88888888/224/3221225615/iptv7998.smil
 游戏风云,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225615/iptv7998.smil
+游戏风云,rtsp://115.153.212.72/PLTV/88888888/224/3221225615/iptv7998.smil
 电竞天堂,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
 电竞天堂,http://tv.scjyhd.com:4022/udp/239.93.1.135:5140
 爱电竞,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
@@ -1041,8 +1053,8 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 笑傲江湖,http://live.metshop.top/huya/26355790
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
 笑傲江湖,https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4
-笑傲江湖,http://1.94.31.214:35455/huya/26355790
 笑傲江湖,http://61.133.118.228:5001/yy/1355067965
+笑傲江湖,http://1.94.31.214:35455/huya/26355790
 笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=26355790
 天龙八部,http://luobo.bkpcp.top/yy/1382736855
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
@@ -1051,11 +1063,13 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=23903123
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
-天龙八部,http://1.94.31.214:35455/huya/23903123
 天龙八部,http://61.133.118.228:5001/yy/1351814644
+天龙八部,http://43.138.0.72:35455/yy/1351814644
+天龙八部,http://1.94.31.214:35455/huya/23903123
 鹿鼎记,http://luobo.bkpcp.top/yy/1382704650
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 鹿鼎记,http://cdn.jdshipin.com:8880/huya.php?id=23865080
+鹿鼎记,http://43.138.0.72:35455/yy/1382736920
 鹿鼎记,http://1.94.31.214:35455/yy/28265277
 鹿鼎记,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
@@ -1073,8 +1087,8 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667
-新白娘子传奇,http://1.94.31.214:35455/yy/1354490667
 新白娘子传奇,http://61.133.118.228:5001/yy/1354490667
+新白娘子传奇,http://1.94.31.214:35455/yy/1354490667
 济公游记,http://live.iill.top/yy.php?id=1355265814
 济公游记,http://1.94.31.214:35455/yy/21482
 封神榜,http://luobo.bkpcp.top/yy/1353426319
@@ -1082,14 +1096,15 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 封神榜,http://live.iill.top/yy.php?id=1353426319
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=23749096
 封神榜,https://www.goodiptv.club/yy/1382797534
-封神榜,http://1.94.31.214:35455/huya/29465849
 封神榜,http://61.133.118.228:5001/yy/1353426319
+封神榜,http://1.94.31.214:35455/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 上海滩,https://www.goodiptv.club/yy/1382745184
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
 上海滩,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
 上海滩,http://61.133.118.228:5001/yy/1382745184
+上海滩,http://43.138.0.72:35455/yy/1382745184
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 射雕英雄传,http://1.94.31.214:35455/huya/23824164
