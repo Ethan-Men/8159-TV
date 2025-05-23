@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-23 18:24:29,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-05-24 06:26:28,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -184,8 +184,11 @@ CCTV-17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268004/1
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=1f0018205f02ce70108aadafba7fcfec39c929e9d2523f79a212c4165da5603e21b87da7118e6b0cea3eeeeccd815040f7765b3fb939716daf20de611d8c89feb7e0fbd64b5fec9a152f7776b9
 CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
+CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 💰央视付费频道,#genre#
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
@@ -593,6 +596,7 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
@@ -791,6 +795,7 @@ JJ斗地主,https://live.iill.top/bilibili/22021983
 金鹰卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8?
 金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
+金鹰卡通,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
