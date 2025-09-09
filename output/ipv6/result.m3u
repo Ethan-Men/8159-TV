@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-09 18:27:44
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-10 06:19:18
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -1218,7 +1218,7 @@ https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e6a1f0fac1c6d7d1b
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://migu.188766.xyz/?migutoken=1d2aae4c4233178928277e5322b57c56&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=96653ba44c4403b1bb7de587c539e6861b3a58726df4a0dc3857f7267f85950ff7afe8b2786fbd2ac2cf4dac4e7c05e77b8ed3986bc9c3ab9e62fed4ec527924cf1c81957481f68bdd780f9489
+https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=bda539eec2bb0ede8adbb107fcdc9993&tm=1757355490&token=072f4527703a45daa10a910c53fd653d5df5967341cf62fd859165a75cc3b6f2ae98138455253d9c9ac756a91e35dab648886b61f038012df542942ca2502a10bbd4d0abfb15d675d25435f808
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影

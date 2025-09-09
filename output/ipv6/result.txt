@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-09 18:27:44,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-09-10 06:19:18,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -618,7 +618,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e6a1f0fac1c6d7d1bba6e6bf6f4bad80594800fe209a244e76507b80132e671dc1045ca63e497f73f714e92acba8837381116572cad1ef61ce9ddcc4ec333dd4414d08865970e33e630
 CHC家庭影院,https://migu.188766.xyz/?migutoken=1d2aae4c4233178928277e5322b57c56&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
-CHC家庭影院,https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=96653ba44c4403b1bb7de587c539e6861b3a58726df4a0dc3857f7267f85950ff7afe8b2786fbd2ac2cf4dac4e7c05e77b8ed3986bc9c3ab9e62fed4ec527924cf1c81957481f68bdd780f9489
+CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=bda539eec2bb0ede8adbb107fcdc9993&tm=1757355490&token=072f4527703a45daa10a910c53fd653d5df5967341cf62fd859165a75cc3b6f2ae98138455253d9c9ac756a91e35dab648886b61f038012df542942ca2502a10bbd4d0abfb15d675d25435f808
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
