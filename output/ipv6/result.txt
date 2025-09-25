@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-25 18:23:31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-09-26 06:20:32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -659,7 +659,9 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑莓电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,http://tv.scjyhd.com:4022/udp/239.93.0.57:9024
@@ -754,6 +756,7 @@ CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,https://migu.188766.xyz/?migutoken=245ce021c8cbf7bdfc87b00952b97040&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+五星体育,https://other.ottiptv.cc/wxty.m3u8
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 劲爆体育,http://goo.bkpcp.top/mg/jbty
@@ -784,6 +787,7 @@ CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 足球频道,https://mursor.ottiptv.cc/bilibili/30359224
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
