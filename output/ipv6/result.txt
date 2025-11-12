@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-12 18:24:31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-11-13 06:25:34,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -677,6 +677,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 天映经典,https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
@@ -865,6 +866,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
 七龙珠,https://live.iill.top/huya/11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
 火影忍者,http://live.iill.top/douyu.php?id=1997723
 火影忍者,https://live.iill.top/douyu/1997723
 海绵宝宝,https://live.metshop.top/douyu/3949681
@@ -872,6 +874,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 中华小当家,https://live.iill.top/huya/11342413
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 猫和老鼠,https://live.iill.top/huya/11352879
+猫和老鼠,https://live.ottiptv.cc/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
