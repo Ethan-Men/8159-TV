@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 06:24:41,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-12-01 18:27:11,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -671,6 +671,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,http://tv.scjyhd.com:4022/udp/239.93.0.57:9024
 经典电影,https://mursor.ottiptv.cc/bilibili/1777481601
+经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 天映经典,https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
 天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
