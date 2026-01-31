@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-01-31 06:24:11,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+2026-01-31 18:22:51,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 CCTV-1,http://play.kankanlive.com/live/1661761962676984.m3u8
-CCTV-1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 CCTV-1,rtsp://60.13.27.115/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
 CCTV-1,rtsp://115.85.205.19/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
 CCTV-1,rtsp://115.153.245.70/PLTV/88888888/224/3221225517/iptv7949.smil
@@ -12,6 +11,7 @@ CCTV-1,rtsp://115.153.247.80/PLTV/88888888/224/3221225517/iptv7949.smil
 CCTV-1,rtsp://115.153.230.145/PLTV/88888888/224/3221225517/iptv7949.smil
 CCTV-1,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225517/iptv7949.smil
 CCTV-1,rtsp://180.95.143.19/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
+CCTV-1,rtsp://115.153.254.81/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV-2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
 CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
 CCTV-2,rtsp://115.85.205.19/PLTV/88888910/224/3221225568/10000100000000060000000000107348_0.smil
@@ -28,7 +28,6 @@ CCTV-3,rtsp://124.152.124.50/PLTV/88888910/224/3221225598/1000010000000006000000
 CCTV-3,rtsp://180.95.143.19/PLTV/88888910/224/3221225598/10000100000000060000000000295671_0.smil
 CCTV-3,rtsp://60.13.39.18/PLTV/88888910/224/3221225598/10000100000000060000000000295671_0.smil
 CCTV-3,rtsp://115.153.254.81/PLTV/88888888/224/3221226930/65406412.smil
-CCTV-3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 CCTV-4,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctveurope&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope
 CCTV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?v=180.171.5.8.9.6.3.9&ChannelID=cctveurope&videoTVChannel=cctveurope&P2PChannelID=pd://cctv_p2p_cctveurope&tai=cctv1&VideoName=cctv1&channelID=cctveurope
 CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
@@ -65,7 +64,6 @@ CCTV-7,rtsp://60.13.39.18/PLTV/88888910/224/3221225572/1000010000000006000000000
 CCTV-8,https://player.cntv.cn/standard/live_HLSDRM20180524.swf?tai=cctv8&ChannelID=cctv8&videoTVChannel=cctv8&P2PChannelID=pd://cctv_p2p_cctv8
 CCTV-8,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
 CCTV-8,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
-CCTV-8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 CCTV-8,rtsp://60.13.27.115/PLTV/88888910/224/3221225601/10000100000000060000000000295674_0.smil
 CCTV-8,rtsp://115.85.205.19/PLTV/88888910/224/3221225601/10000100000000060000000000295674_0.smil
 CCTV-8,rtsp://124.152.124.50/PLTV/88888910/224/3221225601/10000100000000060000000000295674_0.smil
@@ -106,8 +104,8 @@ CCTV-12,rtsp://115.85.205.19/PLTV/88888910/224/3221225578/1000010000000006000000
 CCTV-12,rtsp://180.95.143.19/PLTV/88888910/224/3221225578/10000100000000060000000000107358_0.smil
 CCTV-12,rtsp://115.153.254.81/PLTV/88888888/224/3221226829/59814709.smil
 CCTV-13,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
-CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
 CCTV-13,rtsp://180.95.143.19/PLTV/88888910/224/3221225844/376430600.smil
 CCTV-13,rtsp://115.153.254.81/PLTV/88888888/224/3221227037/87447722.smil
 CCTV-14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
@@ -214,8 +212,8 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 浙江卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=zhejiang&P2PChannelID=pd://cctv_p2p_zhejiang
 浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225535/10000100000000060000000000107315_0.smil
 浙江卫视,rtsp://116.176.26.18/PLTV/88888910/224/3221225530/10000100000000060000000000107310_0.smil
 浙江卫视,rtsp://116.176.26.19/PLTV/88888910/224/3221225535/10000100000000060000000000107315_0.smil
@@ -223,6 +221,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 浙江卫视,rtsp://118.212.169.134/PLTV/88888888/224/3221227038/10000100000000060000000000570895_0.smil
 浙江卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227038/10000100000000060000000000570895_0.smil
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+湖南卫视,http://43.251.226.89:8080/play/920.m3u8
 湖南卫视,rtsp://116.176.26.18/PLTV/88888910/224/3221225574/10000100000000060000000000107354_0.smil
 湖南卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225539/10000100000000060000000000107319_0.smil
 湖南卫视,rtsp://116.176.26.19/PLTV/88888910/224/3221225574/10000100000000060000000000107354_0.smil
@@ -231,7 +230,6 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 湖南卫视,rtsp://124.152.124.50/PLTV/88888910/224/3221225574/10000100000000060000000000107354_0.smil
 湖南卫视,rtsp://60.13.23.179/PLTV/88888910/224/3221225539/10000100000000060000000000107319_0.smil
 湖南卫视,rtsp://115.85.232.19/PLTV/88888910/224/3221225539/10000100000000060000000000107319_0.smil
-湖南卫视,rtsp://221.7.61.147/PLTV/88888910/224/3221225574/10000100000000060000000000107354_0.smil
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
 北京卫视,rtsp://116.176.26.18/PLTV/88888910/224/3221225557/10000100000000060000000000107337_0.smil
 北京卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225557/10000100000000060000000000107337_0.smil
@@ -373,6 +371,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 吉林卫视,rtsp://115.85.232.19/PLTV/88888910/224/3221225548/10000100000000060000000000107328_0.smil
 吉林卫视,rtsp://60.13.39.19/PLTV/88888910/224/3221225548/10000100000000060000000000107328_0.smil
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4#rtsp://124.152.124.50/PLTV/88888910/224/3221225569/10000100000000060000000000107349_0.smil
+江苏卫视,http://43.251.226.89:8080/play/503.m3u8
 江苏卫视,rtsp://116.176.26.18/PLTV/88888910/224/3221225569/10000100000000060000000000107349_0.smil
 江苏卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225569/10000100000000060000000000107349_0.smil
 江苏卫视,rtsp://116.176.26.19/PLTV/88888910/224/3221225569/10000100000000060000000000107349_0.smil
@@ -381,7 +380,6 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 江苏卫视,rtsp://124.152.124.50/PLTV/88888910/224/3221225569/10000100000000060000000000107349_0.smil
 江苏卫视,rtsp://221.7.61.147/PLTV/88888910/224/3221225569/10000100000000060000000000107349_0.smil
 江苏卫视,rtsp://60.13.27.115/PLTV/88888910/224/3221225569/10000100000000060000000000107349_0.smil
-江苏卫视,rtsp://115.85.232.19/PLTV/88888910/224/3221225534/10000100000000060000000000107314_0.smil
 江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503
 江西卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225541/10000100000000060000000000107321_0.smil
 江西卫视,rtsp://116.176.26.18/PLTV/88888910/224/3221225541/10000100000000060000000000107321_0.smil
@@ -560,6 +558,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
+CHC家庭影院,http://43.251.226.89:8080/play/225.m3u8
 CHC家庭影院,rtsp://115.153.212.72/PLTV/88888888/224/3221226959/86128800.smil
 CHC家庭影院,rtsp://115.153.254.81/PLTV/88888888/224/3221226959/86128800.smil
 CHC家庭影院,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226959/86128800.smil
@@ -579,6 +578,7 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
+纬来电影,http://43.251.226.89:8080/play/679.m3u8
 靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
@@ -597,6 +597,7 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
+龙祥电影,http://43.251.226.89:8080/play/678.m3u8
 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 东森超视,rtmp://60.248.77.83/sat/tv331
@@ -637,6 +638,7 @@ CCTV-5+,http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8
 爱体育,rtsp://60.13.39.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
+江苏体育,http://43.251.226.89:8080/play/1030.m3u8
 风云足球,rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil
 风云足球,rtsp://115.153.247.80/PLTV/88888888/224/3221227000/86128919.smil
 风云足球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227000/86128919.smil
@@ -650,6 +652,7 @@ CCTV-5+,http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8
 快乐垂钓,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://115.153.233.154/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000382?AuthInfo=xxx&userid=gf001&userid=gf001
+JJ斗地主,http://43.251.226.89:8080/play/1995.m3u8
 
 🪁动画频道,#genre#
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
@@ -698,8 +701,8 @@ CCTV-5+,http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.233.154/PLTV/88888888/224/3221225583/iptv7982.smil
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 中华小当家,http://www.douzhicloud.site:35455/huya/11342413
 猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879
