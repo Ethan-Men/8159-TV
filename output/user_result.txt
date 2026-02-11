@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-11 06:39:30,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-02-11 18:49:34,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -963,9 +963,9 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,http://tv.scjyhd.com:4022/udp/239.10.0.101:5140
-动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
 动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
+动漫秀场,rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil
 新动漫,http://tv.scjyhd.com:4022/udp/239.10.0.159:5140
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -1031,21 +1031,17 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d
 七龙珠,https://live.iill.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
 火影忍者,http://live.iill.top/douyu.php?id=1997723
 火影忍者,https://live.iill.top/douyu/1997723
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
-中华小当家,http://www.douzhicloud.site:35455/huya/11342413
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
-猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
-蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568
@@ -1104,11 +1100,9 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,http://live.iill.top/yy.php?id=1351814644
 天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=23903123
-天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
 鹿鼎记,http://luobo.bkpcp.top/yy/1382704650
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 鹿鼎记,http://cdn.jdshipin.com:8880/huya.php?id=23865080
-鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 三国演义,https://live.iill.top/huya/11602081
@@ -1126,10 +1120,8 @@ CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=23749096
 封神榜,https://www.goodiptv.club/yy/1382797534
 封神榜,http://live.ottiptv.cc/huya/29465849
-封神榜,http://www.douzhicloud.site:35455/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 上海滩,https://www.goodiptv.club/yy/1382745184
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
-射雕英雄传,http://www.douzhicloud.site:35455/huya/23824164
