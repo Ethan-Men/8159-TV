@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-07 18:59:37,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-04-08 06:39:14,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -961,9 +961,9 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,http://tv.scjyhd.com:4022/udp/239.10.0.101:5140
+动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
+动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil
-动漫秀场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225613/iptv7997.smil
 新动漫,http://tv.scjyhd.com:4022/udp/239.10.0.159:5140
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
