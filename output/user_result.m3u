@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-02 22:02:12
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-03 07:36:23
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -1286,8 +1286,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🌊港·澳·台",纬来体育
-http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 rtmp://116.93.98.236/sat/tv721.flv
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 rtmp://60.248.77.83/sat/tv721
@@ -1315,8 +1313,6 @@ http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Viutv.png" group-title="🌊港·澳·台",Viutv
 http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=4f0dd8b20a195bdf2dcf5540f665ee0b
-#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="🌊港·澳·台",三立台湾
-http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🌊港·澳·台",无线新闻
@@ -1337,8 +1333,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🌊港·澳·台",三立新闻
 http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🌊港·澳·台",三立新闻
-http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="🌊港·澳·台",东森综合
 https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🌊港·澳·台",东森超视
@@ -1496,8 +1490,6 @@ https://mursor.ottiptv.cc/bilibili/1777481601
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
 https://yylunbo.ottiptv.cc/yy/1414812324
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
-http://zb.xmzb.xyz/888.php?id=be一一经典电影
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227322/10000100000000060000000001946404_0.smil
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
 rtsp://115.153.245.70/PLTV/88888888/224/3221227010/86440860.smil
@@ -1505,6 +1497,8 @@ rtsp://115.153.245.70/PLTV/88888888/224/3221227010/86440860.smil
 rtsp://115.153.254.81/PLTV/88888888/224/3221227010/86440860.smil
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
 rtsp://115.153.240.228:554/PLTV/88888888/224/3221227010/86440860.smil
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬电影频道",经典电影
+rtsp://115.153.212.72/PLTV/88888888/224/3221227010/86440860.smil
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
 https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
@@ -1700,8 +1694,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
-http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 rtmp://116.93.98.236/sat/tv721.flv
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 rtmp://60.248.77.83/sat/tv721
@@ -1884,7 +1876,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://tv.scjyhd.com:4022/udp/239.10.0.101:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
-http://139.196.151.191:2051/rtp/239.45.3.134:5140
+http://139.196.214.238/rtp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
