@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-28 13:56:32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-08-29 05:04:50,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -781,6 +781,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+无线星河,http://r.jdshipin.com/sXuuD
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
