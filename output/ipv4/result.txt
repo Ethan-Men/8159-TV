@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-30 08:57:46,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+2026-10-01 00:13:35,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
@@ -535,7 +535,6 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
