@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-06 01:48:29,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+2026-11-06 09:58:32,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
